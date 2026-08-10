@@ -1,0 +1,4 @@
+opencv-contrib-python>=4.8.0   # includes cv2.face (LBPH recognizer) — plain opencv-python does NOT
+pyserial>=3.5
+pyttsx3>=2.90
+numpy>=1.24

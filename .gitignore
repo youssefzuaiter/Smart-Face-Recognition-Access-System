@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Face recognition artifacts (privacy — not tracked)
+python/dataset/
+python/strangers/
+python/trainer.yml
+python/labels.json
+
+# OS
+.DS_Store
+Thumbs.db
